@@ -1,5 +1,16 @@
 # Miscelaneos
 
+This is an application made in the course of angular, where the following was put into practice:
+
+Changes in the style of some HTML element using variables in the components.
+CSS in a certain scope, without affecting the other components.
+Add and remove classes according to variables or any type of condition.
+Custom directives.
+Using the ngSwitch.
+Use of routes and daughter routes.
+Visualization of the life cycle of a component or directive.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
 ## Development server
